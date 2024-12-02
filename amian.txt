@@ -1,0 +1,7 @@
+print ("hello my name is asan amina")
+for i in range (0, 15):
+         print ("thank you")
+
+
+
+priunt==
